@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">2001010052_profil_B1</string>
+    <string name="pepelaugh">UNIVERSITAS\nBUMIGORA</string>
+    <string name="judul">Visi Universitas Bumigora
+    </string>
+    <string name="lanjut">Lanjut</string>
+    <string name="gambarsatu">gambarsatu</string>
+    <string name="isi">"Menjadi Perguruan Tinggi Unggulan di Kawasan Timur Indonesia yang berperan aktif dalam pengembangan IPTEKS (Ilmu Pengetahuan, Teknologi dan Seni) melalui proses pendidikan, penelitian dan pengabdian kepada masyarakat dengan mengedepankan profesionalisme."</string>
+    <string name="cover">cover</string>
+    <string name="data">Alamat:Jl.Ismail Marzuki No.22, Cilinaya, Kec.\n Cakranegara, Kota Mataram, Nusa Tenggara Bar. \n83127</string>
+    <string name="telepon">Telepon:(0370)634498 Didirikan: 1987</string>
+    <string name="nama">RIFKI ALFARRO ZAIDAN</string>
+    <string name="nim">2001010052</string>
+    <string name="logo1">right</string>
+    <string name="logo2">left</string>
+    <string name="logo3">mid</string>
+    <string name="content">this was a blank spot this was a blank spot this was a blank spot\nthis was a blank spot</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="studi">Program Studi S1 Ilmu\nKomputer</string>
+    <string name="isi2">Menjadi Program Studi S1 Ilmu Komputer yang memiliki unggulan dalam implementasi di bidang ilmu komputer di kawasan timur indonesia dengan jejaring nasional tahun 2032.</string>
+
+</resources>
